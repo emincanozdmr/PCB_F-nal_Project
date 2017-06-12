@@ -1,0 +1,18 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"20K1";"Potentiometer_Alps_RK097_Single_Vertical";1;"POT";;;
+2;"C1,C2";"CP_Axial_L10.0mm_D4.5mm_P15.00mm_Horizontal";2;"10 µF/16V";;;
+3;"C3";"CP_Axial_L10.0mm_D4.5mm_P15.00mm_Horizontal";1;"100 µF/12V";;;
+4;"C4";"CP_Axial_L10.0mm_D4.5mm_P15.00mm_Horizontal";1;"2.2kPF";;;
+5;"C5";"CP_Axial_L10.0mm_D4.5mm_P15.00mm_Horizontal";1;"500 µF/12V";;;
+6;"LS1";"RV_Disc_D12_W3.9_P7.5";1;"Speaker";;;
+7;"P1";"Banana_Jack_2Pin";1;"Power_Con";;;
+8;"Q1";"TO-92_Molded_Narrow";1;"BC148";;;
+9;"Q2";"TO-92_Molded_Narrow";1;"BC158";;;
+10;"Q3";"TO-11-3";1;"AC187";;;
+11;"Q4";"TO-11-3";1;"AC188";;;
+12;"R1";"R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal";1;"27K";;;
+13;"R2";"R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal";1;"56K";;;
+14;"R3,R5";"R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal";2;"18R";;;
+15;"R4,R6";"R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal";2;"2.2K";;;
+16;"R7,R8,R9";"R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal";3;"1R";;;
+17;"R10";"R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal";1;"68R";;;

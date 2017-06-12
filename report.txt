@@ -1,0 +1,4 @@
+Plot: 'C:\Users\EMİN CAN\Desktop\PCB\PCB_Final_Project\PCB_Final_Project-F.Cu.svg' OK.
+Plot: 'C:\Users\EMİN CAN\Desktop\PCB\PCB_Final_Project\PCB_Final_Project-B.Cu.svg' OK.
+Plot: 'C:\Users\EMİN CAN\Desktop\PCB\PCB_Final_Project\PCB_Final_Project-B.SilkS.svg' OK.
+Plot: 'C:\Users\EMİN CAN\Desktop\PCB\PCB_Final_Project\PCB_Final_Project-F.SilkS.svg' OK.
