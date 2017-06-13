@@ -131,6 +131,15 @@
     (add_net "Net-(Q4-Pad3)")
   )
 
+  (net_class power ""
+    (clearance 0.5)
+    (trace_width 0.3)
+    (via_dia 0.6)
+    (via_drill 0.4)
+    (uvia_dia 0.3)
+    (uvia_drill 0.1)
+  )
+
   (module Potentiometers:Potentiometer_Alps_RK097_Single_Vertical (layer F.Cu) (tedit 58826B08) (tstamp 5932CA6F)
     (at 81.28 93.345 180)
     (descr "Potentiometer, vertically mounted, Omeg PC16PU, Omeg PC16PU, Omeg PC16PU, Vishay/Spectrol 248GJ/249GJ Single, Vishay/Spectrol 248GJ/249GJ Single, Vishay/Spectrol 248GJ/249GJ Single, Vishay/Spectrol 248GH/249GH Single, Vishay/Spectrol 148/149 Single, Vishay/Spectrol 148/149 Single, Vishay/Spectrol 148/149 Single, Vishay/Spectrol 148A/149A Single with mounting plates, Vishay/Spectrol 148/149 Double, Vishay/Spectrol 148A/149A Double with mounting plates, Piher PC-16 Single, Piher PC-16 Single, Piher PC-16 Single, Piher PC-16SV Single, Piher PC-16 Double, Piher PC-16 Triple, Piher T16H Single, Piher T16L Single, Piher T16H Double, Alps RK163 Single, Alps RK163 Double, Alps RK097 Single, http://www.alps.com/prod/info/E/HTML/Potentiometer/RotaryPotentiometers/RK097/RK097111080J.html")
@@ -645,7 +654,7 @@
     (descr TO-11-3)
     (tags TO-11-3)
     (path /592ED8A1)
-    (fp_text reference Q4 (at 6.39318 -4.25704 180) (layer F.SilkS)
+    (fp_text reference Q4 (at 7.57936 -3.37058 180) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value AC188 (at -0.14986 5.27812 180) (layer F.Fab)
